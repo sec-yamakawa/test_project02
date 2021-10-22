@@ -1,4 +1,5 @@
 application :
+
   name : test_project02
   BIN_DIR : bin
   RTC_DIR : rtc
